@@ -1,0 +1,1 @@
+rootProject.name = "id.oqinify.ktor-jwt-auth"
